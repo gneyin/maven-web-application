@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>admin</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>gilgamesh Releases Nexus Repository</name>
 	      <url>http://45.79.43.15:8081/repository/gilgamesh-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>admin</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>gilgamesh Snapshot Nexus Repository </name>
 	      <url>http://45.79.43.15:8081/repository/gilgamesh-snapshot/</url>
 	    </snapshotRepository>
 	    
